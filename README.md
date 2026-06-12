@@ -28,6 +28,7 @@ Tools for lexical analysis and syntax highlighting make code easier to understan
 However, tools that analyze code pose certain risks to programmers' privacy if the source code contains information of a private nature, sending it via a third-party lexer or AI-based lexer means exposing it.
 Moreover, these types of tools can be used for surveillance purposes, as the use of them may allow employers to keep track of the code written by employees without the latter even knowing about it.
 Finally, as artificial intelligence starts generating code for people, tools for parsing and lexical analysis become critical components of AI-based programming automation tools that will eventually take away jobs from programmers.
- 
-run with elixir filename.ex filename.cpp
 
+ 
+To E1 run with elixir filename.ex filename.cpp
+To run E2 with elixir use filename.ex filename1.cpp filename2.cpp ... filename n.cpp 
